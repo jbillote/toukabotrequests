@@ -1,3 +1,3 @@
 [submodule "src/main/webapp"]
 	path = src/main/webapp
-	url = git@https://github.com/jbillote/toukabotrequests-frontend.git
+	url = https://github.com/jbillote/toukabotrequests-frontend
